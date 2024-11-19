@@ -1,10 +1,10 @@
 .intestazione{
-    background-color: rgb(128, 188, 240);
+    background-color: rgb(240, 128, 210);
     color: rgb(253, 253, 253);
     text-align: center;
     padding: 16px;
     border-style: solid;
-    border-color: black;
+    border-color: rgb(224, 10, 185);
     border-width: 16px;
     border-radius: 30px;
 }
